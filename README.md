@@ -108,3 +108,62 @@ Because the app supports multilingual environments, extra normalization was appl
 - Duplicate menu entries
 - Currency normalization
 - Translation support for menu items
+
+## Application Screenshots
+
+The following screenshots show the Dishcovery user journey from login, scanning, review interaction, menu browsing, favorites, and multilingual translation support.
+
+### 1. Login
+<p align="center">
+  <img src="images/login_page.PNG" width="250">
+</p>
+
+### 2. Home
+<p align="center">
+  <img src="images/home_page.PNG" width="250">
+</p>
+
+### 3. Detected Result
+<p align="center">
+  <img src="images/detected_results.PNG" width="250">
+</p>
+
+### 4. Reviews Tab
+<p align="center">
+  <img src="images/reviews_tab.PNG" width="250">
+</p>
+
+### 5. Review Submitted
+<p align="center">
+  <img src="images/review_submitted.PNG" width="250">
+</p>
+
+### 6. Menu Tab
+<p align="center">
+  <img src="images/menu_tab.PNG" width="250">
+</p>
+
+### 7. Added to Favorites
+<p align="center">
+  <img src="images/added_to_favorites.PNG" width="250">
+</p>
+
+### 8. Favorites Tab
+<p align="center">
+  <img src="images/favorites_tab.PNG" width="250">
+</p>
+
+### 9. Translated Profile Tab
+<p align="center">
+  <img src="images/translated_favorites_tab.PNG" width="250">
+</p>
+
+### 10. Translated Reviews
+<p align="center">
+  <img src="images/translated_reviews.PNG" width="250">
+</p>
+
+### 11. Translated Menu
+<p align="center">
+  <img src="images/translated_menus.PNG" width="250">
+</p>
